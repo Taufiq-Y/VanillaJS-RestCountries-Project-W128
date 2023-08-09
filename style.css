@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(67, 66, 66);
+  }
+  
+  nav {
+    text-align: center;
+    color: white;
+    border: 1px solid rgb(3, 3, 3);
+    height: 2cm;
+    width: 5cm;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  
+  h1 {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    top: 5px;
+    padding: 5px;
+  
+  }
+  
+  p{
+    color: rgb(214, 213, 213);
+  }
+  
+  #footer {
+    text-align: center;
+    padding-top: 9px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(56, 56, 56);
+    right: 0;
+    padding: 5px;
+    
+  }
+  
+  .card-group {
+    margin: 10px;
+    box-shadow: 5px 5px 10px rgb(60, 61, 61);
+  }
+  
+  #flag-img {
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    width: 97.5%;
+    height: 5cm;
+    
+  }
+  
+  .card-header {
+    text-align: center;
+    color: white;
+    background-color: black;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .content {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .card-body {
+    background-image: linear-gradient(to left, rgb(32, 31, 31), rgb(161, 161, 159));
+  }
+  
+  #temp-btn {
+    position: relative;
+    left: 70px;
+    margin-bottom: 5px;
+  }
+  
+  .text_center {
+    align-items: center;
+    top: 5px;
+    padding: 5px;
+  }
